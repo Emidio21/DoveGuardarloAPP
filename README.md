@@ -1,6 +1,3 @@
-# DoveGuardarloAPP
-Dove Guardarlo? React Native app to search which platform (free or flatrate) hosts a movie all around the world.
-
 ![logo](https://www.doveguardarlo.it/logo.png)
 
 [Dove Guardarlo?](https://www.doveguardarlo.it) ti permette di conoscere quali piattaforme streaming ospitano un film.
